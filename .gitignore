@@ -106,4 +106,4 @@ venv.bak/
 # Tacotron 2 oddities
 logs-*/
 training_data/
-
+.idea/
